@@ -24,7 +24,7 @@
 <b>GENDER:</b> HE/HIS/MALE🪐
 </li>
 <li>
-<b>EDUCATION:</b> CS STUDENT NCAS 
+<b>EDUCATION:</b> COMPUTER SCIENCE STUDENT 
 </li>
 <li>
 <b>HOBIES:</b> GAMING,CODING
@@ -33,7 +33,7 @@
 <b>LANGUAGES:</b> ENGLISH,MALAYALAM
 </li>
 <li>
-<b>OTHERS:</b> EDITOR
+<b>OTHERS:</b> EDITOR,GAME DEV!#
 </li>
 
 <br><br><br>
