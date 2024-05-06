@@ -10,7 +10,7 @@
  
 
 <div align="center">
-<img src="https://github.com/spysanju/spysanju/blob/main/images/IMG-20231207-WA0133.jpg" height="300" width="300" align="right">
+<img src="https://github.com/spysanju/spysanju/blob/main/images/IMG-20231207-WA0133.jpg" height="400" width="300" align="right">
   </div>
 <li>
  <b>NAME:</b> SANJAY KM</li>
