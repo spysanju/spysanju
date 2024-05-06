@@ -47,7 +47,7 @@
 <br>
 <br>
 <code><a href="http://t.me/Sxnju_sxnju" title="telegram"><img width="60" src="images/tg.png"></a></code>          
-<code><a href="https://www.snapchat.com/add/s_sanjus8104?share_id=Vbex_QFppaw&locale=en-IN" title="snapchat"><img width="60" src="images/sp.png"></a></code>
+<code><a href="https://www.snapchat.com/add/s_sanjus8104?share_id=Vbex_QFppaw&locale=en-IN" title="snapchat"><img width="60" src="images/sc.png"></a></code>
 <br>
 <br>
 <code><a href="https://pin.it/0sanjaysanjus0" title="pintrest"><img width="60" src="images/pt.png"></a></code>          
