@@ -46,7 +46,7 @@
 <code><a href="http://api.whatsapp.com/send?phone=918606312805&text=Hi%20Sanjay" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
 <br>
 <br>
-<code><a href="http://t.me/Sxnju_sxnju" title="telegram"><img width="50" src="images/tg.png"></a></code>          
+<code><a href="http://t.me/Sxnju_sxnju" title="telegram"><img width="60" src="images/tg.png"></a></code>          
 <code><a href="https://www.snapchat.com/add/s_sanjus8104?share_id=Vbex_QFppaw&locale=en-IN" title="snapchat"><img width="90" src="images/sc.png"></a></code>
 <br>
 <br>
