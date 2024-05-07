@@ -18,11 +18,12 @@
 <b>AGE:</b> 19
 </li>
 <li>
-<b>NATIONALITY:</b> INDIAN🇮🇳
+<b>NATIONALITY:</b> INDIAN
 </li>
 <li>
-<b>GENDER:</b> HE/HIS/MALE🪐
+<b>GENDER:</b> MALE🪐
 </li>
+<img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="200" align="left">
 <li>
 <b>EDUCATION:</b> COMPUTER SCIENCE STUDENT 
 </li>
@@ -37,7 +38,7 @@
 </li>
 
 <br>
-<img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="200" align="left">
+
 
 
 <h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
