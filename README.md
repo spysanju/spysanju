@@ -35,13 +35,14 @@
 <li>
 <b>OTHERS:</b> EDITOR,GAME DEV!#
 </li>
+<br>
 <img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="200" align="left">
 
 <br>
 
 
 
-<h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
+<h1 align="center"><b> ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
 <br><br><br>
 <h5 align="center">
  <code><a href="https://www.instagram.com/itss.sanju_/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
