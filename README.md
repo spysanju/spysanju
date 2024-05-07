@@ -23,7 +23,6 @@
 <li>
 <b>GENDER:</b> MALE🪐
 </li>
-<img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="200" align="right">
 <li>
 <b>EDUCATION:</b> COMPUTER SCIENCE STUDENT 
 </li>
@@ -36,6 +35,7 @@
 <li>
 <b>OTHERS:</b> EDITOR,GAME DEV!#
 </li>
+<img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="200" align="right">
 
 <br>
 
