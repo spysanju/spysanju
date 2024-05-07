@@ -37,7 +37,7 @@
 </li>
 
 <br><br><br>
-<img align="center"alt="coding"width"200" src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif">
+<img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="200" align="center">
 
 
 <h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
