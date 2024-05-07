@@ -1,4 +1,4 @@
-### Hi there i am sanjay 👋
+![Header](./your-header-image-github-header-image.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.justinx3">
 
 
