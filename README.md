@@ -36,7 +36,7 @@
 <b>OTHERS:</b> EDITOR,GAME DEV!#
 </li>
 
-<br><br><br>
+<br>
 <img src="https://paradox.ba/paradox/wp-content/uploads/2019/10/4paradox-animation-min.gif" width="200" align="left">
 
 
