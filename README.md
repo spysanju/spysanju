@@ -57,7 +57,7 @@
 <code><a href="spysanju2004@gmail.com" title="gmail"><img width="60" src="images/gm.png"></a></code>
 <br>
 <br>
-<code><a href="" title="linkedin"><img whttps://www.linkedin.com/in/sanjay-k-m-a40614319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appidth="60" src="images/ln.png"></a></code>
+<code><a href="" title="linkedin"><img whttps://www.linkedin.com/in/sanjay-k-m-a40614319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appidth="60" src="images/ln.JPEG"></a></code>
 
 <div align="center">
 <h3><b><u>if you like my works and want to motivate me😊</u></b></h3>
