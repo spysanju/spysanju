@@ -45,7 +45,7 @@
 <h1 align="center"><b>     ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
 <br><br><br>
 <h5 align="center">
- <code><a href="https://www.instagram.com/itss.sanju_/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
+<code><a href="https://www.instagram.com/itss.sanju_/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
 <code><a href="http://api.whatsapp.com/send?phone=918606312805&text=Hi%20Sanjay" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
 <br>
 <br>
