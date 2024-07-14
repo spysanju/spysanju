@@ -42,7 +42,7 @@
 
 
 
-<h1 align="center"><b> ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
+<h1 align="center"><b>      ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
 <br><br><br>
 <h5 align="center">
  <code><a href="https://www.instagram.com/itss.sanju_/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
